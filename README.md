@@ -33,7 +33,7 @@ A modern and responsive weather application that provides real-time weather info
 3. Open `index.html` in a browser.
 
 ## 🔑 API Key Configuration
-Replace `apiKey` in `script.js` with your OpenWeather API key:
+Replace `apiKey` in `script.js` with your API keys:
 ```js
 const apiKey = "your_api_key_here";
 const geoApiHeaders = {
